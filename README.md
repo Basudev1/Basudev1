@@ -6,6 +6,5 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🌱 I’m currently learning Javascript...
-- 👯 I’m looking to collaborate on open source projects ...
 - 💬 Ask me about cyber security, Linux, Python, Javascript
-- 📫 How to reach me: Ping me
+- 📫 How to reach me:  [![https://twitter.com/muBasudev](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40muBasudev)](https://twitter.com/muBasudev)
